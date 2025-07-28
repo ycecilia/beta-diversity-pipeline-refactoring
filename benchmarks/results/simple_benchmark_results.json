@@ -1,0 +1,122 @@
+{
+  "original": [
+    {
+      "success": true,
+      "execution_time": 2.379802942276001,
+      "memory_delta_mb": -57.109375,
+      "stdout": "[MOCK] Starting database session for namespace: staging\n2025-07-28 12:54:58 [INFO] Starting the beta script...\n[MOCK] Created WebSocket for report: example-report-id\n[MOCK] Progress 0.0%: started - Report initialized\n2025-07-28 12:54:58 [INFO] Fetching example report data\n[MOCK] Updating report example-report-id status to queued\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to loading\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to building\n[MOCK] Committing session\n[MOCK] Progress 75.0%: analyzing - Generating OTU matrix\n2025-07-28 12:54:58 [INFO] Using beta diversity metric: jaccard\n[MOCK] Progress 80.0%: analyzing - Calculating distance matrices\n2025-07-28 12:54:58 [DEBUG] Calculating beta diversity\n2025-07-28 12:54:58 [INFO] Successfully performed beta diversity calculation\n[MOCK] Progress 90.0%: analyzing - Performing PERMANOVA\n2025-07-28 12:54:58 [DEBUG] \nDetailed ID verification:\n2025-07-28 12:54:58 [DEBUG] Shape of filtered DataFrame: (135, 16)\n2025-07-28 12:54:58 [DEBUG] Number of unique sample IDs in filtered DataFrame: 135\n2025-07-28 12:54:58 [DEBUG] First few rows of filtered_df['sample_id']:\nshape: (5, 1)\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 sample_id \u2502\n\u2502 ---       \u2502\n\u2502 str       \u2502\n\u255e\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2561\n\u2502 EMB_17    \u2502\n\u2502 EMB_18    \u2502\n\u2502 EMB_19    \u2502\n\u2502 EMB_20    \u2502\n\u2502 EMB_21    \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n2025-07-28 12:54:58 [DEBUG] \nAfter alignment:\n2025-07-28 12:54:58 [DEBUG] Distance matrix IDs: 135\n2025-07-28 12:54:58 [DEBUG] DataFrame samples: 135\n2025-07-28 12:54:58 [DEBUG] Are all distance matrix IDs in DataFrame? True\n[MOCK] Progress 90.0%: analyzing - Plotting results\n2025-07-28 12:54:58 [INFO] MeanShift with bandwidth=0.0926, 10 clusters\nEigenvalues: [0.00129767 0.00349928]\nUsing eigenvalues (abs): [0.00349928 0.00129767]\nEllipse width, height: 0.23661894471182532, 0.14409259866736462\nEigenvalues: [0.00213134 0.00458834]\nUsing eigenvalues (abs): [0.00458834 0.00213134]\nEllipse width, height: 0.270949090858755, 0.18466587693816064\nEigenvalues: [0.00139413 0.0037752 ]\nUsing eigenvalues (abs): [0.0037752  0.00139413]\nEllipse width, height: 0.24577048059036158, 0.1493523785966534\nEigenvalues: [0.00169332 0.00054743]\nUsing eigenvalues (abs): [0.00169332 0.00054743]\nEllipse width, height: 0.1646001119449816, 0.0935892017644657\nEigenvalues: [0.00163388 0.00060485]\nUsing eigenvalues (abs): [0.00163388 0.00060485]\nEllipse width, height: 0.16168530415873456, 0.09837494569211773\nEigenvalues: [0.00151875 0.0001673 ]\nUsing eigenvalues (abs): [0.00151875 0.0001673 ]\nEllipse width, height: 0.15588438042701264, 0.05173837251266708\nEigenvalues: [0.00161978 0.00132193]\nUsing eigenvalues (abs): [0.00161978 0.00132193]\nEllipse width, height: 0.1609857835135591, 0.14543331833615653\nEigenvalues: [0.00183048 0.00240914]\nUsing eigenvalues (abs): [0.00240914 0.00183048]\nEllipse width, height: 0.1963321114304942, 0.1711365676858677\nEigenvalues: [0.00605122 0.00096108]\nUsing eigenvalues (abs): [0.00605122 0.00096108]\nEllipse width, height: 0.3111584311824249, 0.12400532685790511\nEigenvalues: [0.0062804  0.00208646]\nUsing eigenvalues (abs): [0.0062804  0.00208646]\nEllipse width, height: 0.31699596853129586, 0.18271118391943256\n2025-07-28 12:54:58 [DEBUG] Generated plotly plot\n2025-07-28 12:54:58 [DEBUG] Uploading report JSON\n[MOCK] Compressing 89891 characters\n[MOCK] Uploading to bucket: edna-project-files-staging\n[MOCK] Target path: projects/example-project/cache/example-marker/reports/example-report-id.json.zst\n[MOCK] Data size: 89891 bytes\n[MOCK] Saving report tarball to bucket: edna-project-files-staging\n[MOCK] Report ID: example-report-id\n[MOCK] Headers: ['-----------------------------', 'PCoA plot. Results of PERMANOVA, using 999 permutations.\\njaccard beta diversity and Site\\nSample size: 135. Number of groups: 8. Test statistic (pseudo-F): 4.710. p-value: 0.001']\n[MOCK] Dataset 'beta': 135 rows\n2025-07-28 12:54:58 [INFO] Plotly visualization saved to: previews/beta_diversity_report.html\n\n\ud83c\udfaf Beta diversity report HTML saved to: previews/beta_diversity_report.html\n\ud83d\udcca Open this file in your browser to view the interactive visualization\n[MOCK] Progress 100.0%: completed - Report completed\n[MOCK] Closing WebSocket for report: example-report-id\n[MOCK] Updating report example-report-id status to completed\n[MOCK] Committing session\n[MOCK] Adding MockComputeLog to session\n[MOCK] Closing session\n2025-07-28 12:54:58 [INFO] Total execution time: 0.65 seconds\n[MOCK] Closing session\n",
+      "stderr": "",
+      "returncode": 0,
+      "scientific_results": {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 1.8013629913330078,
+      "memory_delta_mb": -661.8125,
+      "stdout": "[MOCK] Starting database session for namespace: staging\n2025-07-28 12:55:01 [INFO] Starting the beta script...\n[MOCK] Created WebSocket for report: example-report-id\n[MOCK] Progress 0.0%: started - Report initialized\n2025-07-28 12:55:01 [INFO] Fetching example report data\n[MOCK] Updating report example-report-id status to queued\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to loading\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to building\n[MOCK] Committing session\n[MOCK] Progress 75.0%: analyzing - Generating OTU matrix\n2025-07-28 12:55:01 [INFO] Using beta diversity metric: jaccard\n[MOCK] Progress 80.0%: analyzing - Calculating distance matrices\n2025-07-28 12:55:01 [DEBUG] Calculating beta diversity\n2025-07-28 12:55:01 [INFO] Successfully performed beta diversity calculation\n[MOCK] Progress 90.0%: analyzing - Performing PERMANOVA\n2025-07-28 12:55:01 [DEBUG] \nDetailed ID verification:\n2025-07-28 12:55:01 [DEBUG] Shape of filtered DataFrame: (135, 16)\n2025-07-28 12:55:01 [DEBUG] Number of unique sample IDs in filtered DataFrame: 135\n2025-07-28 12:55:01 [DEBUG] First few rows of filtered_df['sample_id']:\nshape: (5, 1)\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 sample_id \u2502\n\u2502 ---       \u2502\n\u2502 str       \u2502\n\u255e\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2561\n\u2502 EMB_17    \u2502\n\u2502 EMB_18    \u2502\n\u2502 EMB_19    \u2502\n\u2502 EMB_20    \u2502\n\u2502 EMB_21    \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n2025-07-28 12:55:01 [DEBUG] \nAfter alignment:\n2025-07-28 12:55:01 [DEBUG] Distance matrix IDs: 135\n2025-07-28 12:55:01 [DEBUG] DataFrame samples: 135\n2025-07-28 12:55:01 [DEBUG] Are all distance matrix IDs in DataFrame? True\n[MOCK] Progress 90.0%: analyzing - Plotting results\n2025-07-28 12:55:02 [INFO] MeanShift with bandwidth=0.0926, 10 clusters\nEigenvalues: [0.00129767 0.00349928]\nUsing eigenvalues (abs): [0.00349928 0.00129767]\nEllipse width, height: 0.23661894471182532, 0.14409259866736462\nEigenvalues: [0.00213134 0.00458834]\nUsing eigenvalues (abs): [0.00458834 0.00213134]\nEllipse width, height: 0.270949090858755, 0.18466587693816064\nEigenvalues: [0.00139413 0.0037752 ]\nUsing eigenvalues (abs): [0.0037752  0.00139413]\nEllipse width, height: 0.24577048059036158, 0.1493523785966534\nEigenvalues: [0.00169332 0.00054743]\nUsing eigenvalues (abs): [0.00169332 0.00054743]\nEllipse width, height: 0.1646001119449816, 0.0935892017644657\nEigenvalues: [0.00163388 0.00060485]\nUsing eigenvalues (abs): [0.00163388 0.00060485]\nEllipse width, height: 0.16168530415873456, 0.09837494569211773\nEigenvalues: [0.00151875 0.0001673 ]\nUsing eigenvalues (abs): [0.00151875 0.0001673 ]\nEllipse width, height: 0.15588438042701264, 0.05173837251266708\nEigenvalues: [0.00161978 0.00132193]\nUsing eigenvalues (abs): [0.00161978 0.00132193]\nEllipse width, height: 0.1609857835135591, 0.14543331833615653\nEigenvalues: [0.00183048 0.00240914]\nUsing eigenvalues (abs): [0.00240914 0.00183048]\nEllipse width, height: 0.1963321114304942, 0.1711365676858677\nEigenvalues: [0.00605122 0.00096108]\nUsing eigenvalues (abs): [0.00605122 0.00096108]\nEllipse width, height: 0.3111584311824249, 0.12400532685790511\nEigenvalues: [0.0062804  0.00208646]\nUsing eigenvalues (abs): [0.0062804  0.00208646]\nEllipse width, height: 0.31699596853129586, 0.18271118391943256\n2025-07-28 12:55:02 [DEBUG] Generated plotly plot\n2025-07-28 12:55:02 [DEBUG] Uploading report JSON\n[MOCK] Compressing 89891 characters\n[MOCK] Uploading to bucket: edna-project-files-staging\n[MOCK] Target path: projects/example-project/cache/example-marker/reports/example-report-id.json.zst\n[MOCK] Data size: 89891 bytes\n[MOCK] Saving report tarball to bucket: edna-project-files-staging\n[MOCK] Report ID: example-report-id\n[MOCK] Headers: ['-----------------------------', 'PCoA plot. Results of PERMANOVA, using 999 permutations.\\njaccard beta diversity and Site\\nSample size: 135. Number of groups: 8. Test statistic (pseudo-F): 4.710. p-value: 0.001']\n[MOCK] Dataset 'beta': 135 rows\n2025-07-28 12:55:02 [INFO] Plotly visualization saved to: previews/beta_diversity_report.html\n\n\ud83c\udfaf Beta diversity report HTML saved to: previews/beta_diversity_report.html\n\ud83d\udcca Open this file in your browser to view the interactive visualization\n[MOCK] Progress 100.0%: completed - Report completed\n[MOCK] Closing WebSocket for report: example-report-id\n[MOCK] Updating report example-report-id status to completed\n[MOCK] Committing session\n[MOCK] Adding MockComputeLog to session\n[MOCK] Closing session\n2025-07-28 12:55:02 [INFO] Total execution time: 0.56 seconds\n[MOCK] Closing session\n",
+      "stderr": "",
+      "returncode": 0,
+      "scientific_results": {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 1.7066941261291504,
+      "memory_delta_mb": -141.328125,
+      "stdout": "[MOCK] Starting database session for namespace: staging\n2025-07-28 12:55:04 [INFO] Starting the beta script...\n[MOCK] Created WebSocket for report: example-report-id\n[MOCK] Progress 0.0%: started - Report initialized\n2025-07-28 12:55:04 [INFO] Fetching example report data\n[MOCK] Updating report example-report-id status to queued\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to loading\n[MOCK] Committing session\n[MOCK] Updating report example-report-id status to building\n[MOCK] Committing session\n[MOCK] Progress 75.0%: analyzing - Generating OTU matrix\n2025-07-28 12:55:04 [INFO] Using beta diversity metric: jaccard\n[MOCK] Progress 80.0%: analyzing - Calculating distance matrices\n2025-07-28 12:55:04 [DEBUG] Calculating beta diversity\n2025-07-28 12:55:04 [INFO] Successfully performed beta diversity calculation\n[MOCK] Progress 90.0%: analyzing - Performing PERMANOVA\n2025-07-28 12:55:04 [DEBUG] \nDetailed ID verification:\n2025-07-28 12:55:04 [DEBUG] Shape of filtered DataFrame: (135, 16)\n2025-07-28 12:55:04 [DEBUG] Number of unique sample IDs in filtered DataFrame: 135\n2025-07-28 12:55:04 [DEBUG] First few rows of filtered_df['sample_id']:\nshape: (5, 1)\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 sample_id \u2502\n\u2502 ---       \u2502\n\u2502 str       \u2502\n\u255e\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2561\n\u2502 EMB_17    \u2502\n\u2502 EMB_18    \u2502\n\u2502 EMB_19    \u2502\n\u2502 EMB_20    \u2502\n\u2502 EMB_21    \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n2025-07-28 12:55:04 [DEBUG] \nAfter alignment:\n2025-07-28 12:55:04 [DEBUG] Distance matrix IDs: 135\n2025-07-28 12:55:04 [DEBUG] DataFrame samples: 135\n2025-07-28 12:55:04 [DEBUG] Are all distance matrix IDs in DataFrame? True\n[MOCK] Progress 90.0%: analyzing - Plotting results\n2025-07-28 12:55:04 [INFO] MeanShift with bandwidth=0.0926, 10 clusters\nEigenvalues: [0.00129767 0.00349928]\nUsing eigenvalues (abs): [0.00349928 0.00129767]\nEllipse width, height: 0.23661894471182532, 0.14409259866736462\nEigenvalues: [0.00213134 0.00458834]\nUsing eigenvalues (abs): [0.00458834 0.00213134]\nEllipse width, height: 0.270949090858755, 0.18466587693816064\nEigenvalues: [0.00139413 0.0037752 ]\nUsing eigenvalues (abs): [0.0037752  0.00139413]\nEllipse width, height: 0.24577048059036158, 0.1493523785966534\nEigenvalues: [0.00169332 0.00054743]\nUsing eigenvalues (abs): [0.00169332 0.00054743]\nEllipse width, height: 0.1646001119449816, 0.0935892017644657\nEigenvalues: [0.00163388 0.00060485]\nUsing eigenvalues (abs): [0.00163388 0.00060485]\nEllipse width, height: 0.16168530415873456, 0.09837494569211773\nEigenvalues: [0.00151875 0.0001673 ]\nUsing eigenvalues (abs): [0.00151875 0.0001673 ]\nEllipse width, height: 0.15588438042701264, 0.05173837251266708\nEigenvalues: [0.00161978 0.00132193]\nUsing eigenvalues (abs): [0.00161978 0.00132193]\nEllipse width, height: 0.1609857835135591, 0.14543331833615653\nEigenvalues: [0.00183048 0.00240914]\nUsing eigenvalues (abs): [0.00240914 0.00183048]\nEllipse width, height: 0.1963321114304942, 0.1711365676858677\nEigenvalues: [0.00605122 0.00096108]\nUsing eigenvalues (abs): [0.00605122 0.00096108]\nEllipse width, height: 0.3111584311824249, 0.12400532685790511\nEigenvalues: [0.0062804  0.00208646]\nUsing eigenvalues (abs): [0.0062804  0.00208646]\nEllipse width, height: 0.31699596853129586, 0.18271118391943256\n2025-07-28 12:55:04 [DEBUG] Generated plotly plot\n2025-07-28 12:55:04 [DEBUG] Uploading report JSON\n[MOCK] Compressing 89891 characters\n[MOCK] Uploading to bucket: edna-project-files-staging\n[MOCK] Target path: projects/example-project/cache/example-marker/reports/example-report-id.json.zst\n[MOCK] Data size: 89891 bytes\n[MOCK] Saving report tarball to bucket: edna-project-files-staging\n[MOCK] Report ID: example-report-id\n[MOCK] Headers: ['-----------------------------', 'PCoA plot. Results of PERMANOVA, using 999 permutations.\\njaccard beta diversity and Site\\nSample size: 135. Number of groups: 8. Test statistic (pseudo-F): 4.710. p-value: 0.001']\n[MOCK] Dataset 'beta': 135 rows\n2025-07-28 12:55:04 [INFO] Plotly visualization saved to: previews/beta_diversity_report.html\n\n\ud83c\udfaf Beta diversity report HTML saved to: previews/beta_diversity_report.html\n\ud83d\udcca Open this file in your browser to view the interactive visualization\n[MOCK] Progress 100.0%: completed - Report completed\n[MOCK] Closing WebSocket for report: example-report-id\n[MOCK] Updating report example-report-id status to completed\n[MOCK] Committing session\n[MOCK] Adding MockComputeLog to session\n[MOCK] Closing session\n2025-07-28 12:55:04 [INFO] Total execution time: 0.49 seconds\n[MOCK] Closing session\n",
+      "stderr": "",
+      "returncode": 0,
+      "scientific_results": {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      }
+    }
+  ],
+  "refactored": [
+    {
+      "success": true,
+      "execution_time": 1.3469948768615723,
+      "memory_delta_mb": 284.828125,
+      "scientific_results": {
+        "clusters": 8,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 0.41995787620544434,
+      "memory_delta_mb": 36.328125,
+      "scientific_results": {
+        "clusters": 10,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 0.44757080078125,
+      "memory_delta_mb": 44.984375,
+      "scientific_results": {
+        "clusters": 7,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      }
+    }
+  ],
+  "refactored_fast": [
+    {
+      "success": true,
+      "execution_time": 0.43303799629211426,
+      "memory_delta_mb": -169.265625,
+      "scientific_results": {
+        "clusters": 8,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 0.4126458168029785,
+      "memory_delta_mb": 37.4375,
+      "scientific_results": {
+        "clusters": 9,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      }
+    },
+    {
+      "success": true,
+      "execution_time": 0.401867151260376,
+      "memory_delta_mb": 20.90625,
+      "scientific_results": {
+        "clusters": 10,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      }
+    }
+  ]
+}

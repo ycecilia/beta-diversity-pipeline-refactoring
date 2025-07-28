@@ -1,0 +1,11 @@
+project_id,sample_date,sample_id,sample_type,latitude,longitude,site
+clme267mb0003ld0fho9fnql5,2024-07-22,FB_EMB123,Negative control,37.498915,-122.49567,LAB_2024
+clme267mb0003ld0fho9fnql5,2024-07-22,FB_TIDE123,Control,37.494988,-122.49886,Unprotected_tidepool_2024
+clme267mb0003ld0fho9fnql5,2024-07-22,FB_EMB123,Negative control,37.498915,-122.49567,LAB_2024
+clme267mb0003ld0fho9fnql5,2017-04-30,PPEXT,Negative control,,,Lab
+clme267mb0003ld0fho9fnql5,2017-04-30,PPPCR,Negative control,,,Lab
+clme267mb0003ld0fho9fnql5,2024-07-22,FB_MPA123,Negative control,,,LAB_2024
+clme267mb0003ld0fho9fnql5,2025-01-12,EB_EMB,Negative control,,,LAB_2024
+clme267mb0003ld0fho9fnql5,2025-01-12,TIDE_EB,Negative control,,,LAB_2024
+clme267mb0003ld0fho9fnql5,2025-01-12,PCR_blank,Negative control,,,LAB_2024
+clme267mb0003ld0fho9fnql5,2024-07-22,FB_TIDE123,Control,37.494988,-122.49886,Unprotected_tidepool_2024

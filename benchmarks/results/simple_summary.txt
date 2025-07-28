@@ -1,0 +1,40 @@
+============================================================
+BETA DIVERSITY PIPELINE BENCHMARK RESULTS
+============================================================
+
+🚀 PERFORMANCE SUMMARY:
+   • Original time: 1.963s
+   • Refactored time: 0.738s
+   • Speedup: 2.66x
+   • Improvement: 62.4%
+
+📊 DETAILED RESULTS:
+
+ORIGINAL:
+   • Success rate: 100.0%
+   • Mean time: 1.963s (±0.298s)
+   • Time range: 1.707s - 2.380s
+   • Memory usage: -286.8MB (±267.4MB)
+
+REFACTORED:
+   • Success rate: 100.0%
+   • Mean time: 0.738s (±0.431s)
+   • Time range: 0.420s - 1.347s
+   • Memory usage: 122.0MB (±115.2MB)
+
+REFACTORED_FAST:
+   • Success rate: 100.0%
+   • Mean time: 0.416s (±0.013s)
+   • Time range: 0.402s - 0.433s
+   • Memory usage: -37.0MB (±93.8MB)
+
+🔬 STATISTICAL CONSISTENCY:
+   ⚠️  Poor consistency: 1/2 metrics identical (50.0%)
+
+   METRIC COMPARISON:
+   | Metric | Original | Refactored | Status |
+   |--------|----------|------------|---------|
+   | **PERMANOVA F-statistic** | 4.71 | 5.06 | ❌ Different |
+   | **PERMANOVA p-value** | 0.001 | 0.001 | ✅ Identical |
+
+============================================================

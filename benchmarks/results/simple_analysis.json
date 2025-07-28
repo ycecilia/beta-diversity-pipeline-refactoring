@@ -1,0 +1,138 @@
+{
+  "original": {
+    "execution_time": {
+      "mean": 1.9626200199127197,
+      "std": 0.2975138557484029,
+      "min": 1.7066941261291504,
+      "max": 2.379802942276001,
+      "samples": 3
+    },
+    "memory_usage": {
+      "mean": -286.75,
+      "std": 267.42863053230747
+    },
+    "success_rate": 100.0,
+    "scientific_results": [
+      {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      },
+      {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      },
+      {
+        "f_statistic": 4.71,
+        "p_value": 0.001
+      }
+    ]
+  },
+  "refactored": {
+    "execution_time": {
+      "mean": 0.7381745179494222,
+      "std": 0.4306485732553839,
+      "min": 0.41995787620544434,
+      "max": 1.3469948768615723,
+      "samples": 3
+    },
+    "memory_usage": {
+      "mean": 122.046875,
+      "std": 115.15796159967259
+    },
+    "success_rate": 100.0,
+    "scientific_results": [
+      {
+        "clusters": 8,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      },
+      {
+        "clusters": 10,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      },
+      {
+        "clusters": 7,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.68144711532442,
+        "pc2_variance": 19.814402916087193,
+        "mean_distance": 0.8005654224787377
+      }
+    ]
+  },
+  "refactored_fast": {
+    "execution_time": {
+      "mean": 0.41585032145182294,
+      "std": 0.012925608497127188,
+      "min": 0.401867151260376,
+      "max": 0.43303799629211426,
+      "samples": 3
+    },
+    "memory_usage": {
+      "mean": -36.973958333333336,
+      "std": 93.78747023180996
+    },
+    "success_rate": 100.0,
+    "scientific_results": [
+      {
+        "clusters": 8,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      },
+      {
+        "clusters": 9,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      },
+      {
+        "clusters": 10,
+        "f_statistic": 5.059815647229946,
+        "p_value": 0.001,
+        "pc1_variance": 20.636264985415913,
+        "pc2_variance": 19.77116640377182,
+        "mean_distance": 0.8005654224787377
+      }
+    ]
+  },
+  "performance_comparison": {
+    "speedup_factor": 2.6587479954803768,
+    "time_improvement_pct": 62.38831202882309,
+    "original_mean_time": 1.9626200199127197,
+    "refactored_mean_time": 0.7381745179494222
+  },
+  "statistical_consistency": {
+    "comparison_table": [
+      {
+        "metric": "**PERMANOVA F-statistic**",
+        "original": "4.71",
+        "refactored": "5.06",
+        "status": "\u274c Different"
+      },
+      {
+        "metric": "**PERMANOVA p-value**",
+        "original": "0.001",
+        "refactored": "0.001",
+        "status": "\u2705 Identical"
+      }
+    ],
+    "status": "poor",
+    "summary": {
+      "identical_metrics": 1,
+      "total_metrics": 2,
+      "consistency_percentage": 50.0
+    }
+  }
+}

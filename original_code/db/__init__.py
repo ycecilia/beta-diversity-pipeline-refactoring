@@ -1,0 +1,1 @@
+# Database module stubs for challenge

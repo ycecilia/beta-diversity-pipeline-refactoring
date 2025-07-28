@@ -1,0 +1,273 @@
+project_id,sample_date,sample_id,sample_type,latitude,longitude,site,Substrate,Depth (m),Environmental Feature,Environmental Setting,Location in Harbor
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_11,Sample,37.495268,-122.49971,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_13,Sample,37.496685,-122.50006,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204A2,Sample,37.498813,-122.496,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_33,Sample,37.49558,-122.49754,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187B1,Sample,37.493823,-122.49338,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186B1,Sample,37.495937,-122.49939,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204B2,Sample,37.497939,-122.49624,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183A2,Sample,37.493893,-122.49923,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14C2,Sample,37.495546,-122.49665,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16B1,Sample,37.4982373,-122.49617,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_9,Sample,37.495945,-122.49936,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_46,Sample,37.49426,-122.49928,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_14,Sample,37.497594,-122.5004,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201C1,Sample,37.50069,-122.49287,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204A1,Sample,37.498686,-122.49556,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_28,Sample,37.498833,-122.49598,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181B2,Sample,37.496433,-122.50009,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201A1,Sample,37.501622,-122.49448,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183C2,Sample,37.494761,-122.49863,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16B1,Sample,37.4982373,-122.49617,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14C1,Sample,37.495604,-122.49582,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18C1,Sample,37.5001835,-122.49567,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16C1,Sample,37.4977438,-122.4961,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14B1,Sample,37.495652,-122.49577,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16C2,Sample,37.497351,-122.49611,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11B1,Sample,37.4980419,-122.49647,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18C2,Sample,37.5001214,-122.49595,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15C2,Sample,37.5001729,-122.49546,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18B2,Sample,37.5006331,-122.4951,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14A1,Sample,37.49567,-122.49768,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16A2,Sample,37.4989113,-122.49632,Unprotected_inner_beach_2017,sand,0,FullyTerrestrial,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15C1,Sample,37.5004465,-122.4953,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186C2,Sample,37.496001,-122.49995,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183A2,Sample,37.493893,-122.49923,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182C1,Sample,37.49557,-122.49525,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202B1,Sample,37.494176,-122.49139,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182B2,Sample,37.49547,-122.49648,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184B2,Sample,37.495137,-122.49916,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181B2,Sample,37.496433,-122.50009,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204B1,Sample,37.498014,-122.49596,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183A1,Sample,37.493883,-122.49924,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201C2,Sample,37.500588,-122.49304,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182C2,Sample,37.495274,-122.49531,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201A2,Sample,37.50159,-122.49406,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187C1,Sample,37.494203,-122.49383,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183B2,Sample,37.49405,-122.49873,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181A1,Sample,37.496101,-122.49995,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204C1,Sample,37.4972663,-122.49543,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203C1,Sample,37.499838,-122.49487,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204B2,Sample,37.497939,-122.49624,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203B1,Sample,37.50005,-122.49393,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184A2,Sample,37.497138,-122.50013,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181C2,Sample,37.497018,-122.50034,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187B2,Sample,37.493602,-122.49352,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183B1,Sample,37.494025,-122.4987,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204C2,Sample,37.4970992,-122.49568,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186A1,Sample,37.495496,-122.4995,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203A1,Sample,37.500425,-122.49329,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202C2,Sample,37.494026,-122.49053,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186B2,Sample,37.496029,-122.49938,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187A1,Sample,37.495175,-122.49399,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202B2,Sample,37.493925,-122.49123,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187B1,Sample,37.493823,-122.49338,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182B1,Sample,37.49539,-122.49746,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203C2,Sample,37.500361,-122.49495,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186B1,Sample,37.495937,-122.49939,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201B2,Sample,37.501179,-122.49357,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181A2,Sample,37.49637,-122.4996,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204A2,Sample,37.498813,-122.496,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202A1,Sample,37.493525,-122.49277,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201A1,Sample,37.501622,-122.49448,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202A2,Sample,37.493374,-122.49265,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201C1,Sample,37.50069,-122.49287,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187A2,Sample,37.49503,-122.49424,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184C1,Sample,37.494549,-122.49918,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204A1,Sample,37.498686,-122.49556,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184A1,Sample,37.497309,-122.50029,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201B1,Sample,37.501337,-122.49372,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182A1,Sample,37.495512,-122.49757,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181C1,Sample,37.496758,-122.5004,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203A2,Sample,37.500718,-122.49374,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203B2,Sample,37.500421,-122.49421,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181B1,Sample,37.496547,-122.49979,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183C1,Sample,37.494431,-122.49858,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186A2,Sample,37.495471,-122.49956,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186C1,Sample,37.495675,-122.49972,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202C1,Sample,37.494193,-122.49047,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183C2,Sample,37.494761,-122.49863,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187C2,Sample,37.493991,-122.49378,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182A2,Sample,37.495489,-122.49758,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184B1,Sample,37.495506,-122.49926,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184C2,Sample,37.494549,-122.49918,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_14,Sample,37.497594,-122.5004,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_10,Sample,37.495961,-122.49934,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_48,Sample,37.494691,-122.49916,Unprotected_tidepool_2024,Sediment,"",Fully submerged,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_25,Sample,37.500067,-122.49491,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_34,Sample,37.495463,-122.49753,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_7,Sample,37.497322,-122.50027,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_1,Sample,37.496102,-122.49985,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_15,Sample,37.498115,-122.5004,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_18,Sample,37.50242,-122.49362,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_40,Sample,37.49407,-122.49833,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_23,Sample,37.50045,-122.49335,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_22,Sample,37.494206,-122.49044,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_35,Sample,37.495422,-122.49743,Unprotected_tidepool_2024,Sediment,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_36,Sample,37.495619,-122.49667,Unprotected_tidepool_2024,Sediment,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_13,Sample,37.496685,-122.50006,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_6,Sample,37.497038,-122.50023,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_2,Sample,37.49636,-122.4996,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_43,Sample,37.494521,-122.49865,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_9,Sample,37.495945,-122.49936,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_24,Sample,37.502181,-122.49285,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_17,Sample,37.50076,-122.49303,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_21,Sample,37.494284,-122.49121,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_41,Sample,37.493799,-122.49875,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_29,Sample,37.49806,-122.49593,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TiDE_47,Sample,37.49424,-122.49936,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_31,Sample,37.497166,-122.49553,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_5,Sample,37.496966,-122.50025,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_3,Sample,37.496548,-122.49982,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_19,Sample,37.494332,-122.49397,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_30,Sample,37.498103,-122.49635,Unprotected_inner_beach_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_8,Sample,37.497271,-122.50023,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_33,Sample,37.49558,-122.49754,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_44,Sample,37.494808,-122.49864,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_27,Sample,37.502676,-122.49276,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_11,Sample,37.495268,-122.49971,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_32,Sample,37.497078,-122.4957,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_4,Sample,37.496432,-122.50006,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_37,Sample,37.4956,-122.49532,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_28,Sample,37.498833,-122.49598,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_46,Sample,37.49426,-122.49928,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_26,Sample,37.502836,-122.49326,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_45,Sample,37.495485,-122.49927,Unprotected_tidepool_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_16,Sample,37.497385,-122.50036,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_39,Sample,37.49407,-122.49833,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_38,Sample,37.495337,-122.49528,Unprotected_tidepool_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_12,Sample,37.496008,-122.49989,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_20,Sample,37.49364,-122.49266,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_42,Sample,37.494004,-122.49863,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15B1,Sample,37.501604,-122.49419,Marsh_runoff_2017,silt,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14C2,Sample,37.495546,-122.49665,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15A1,Sample,37.5009329,-122.4948,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11B2,Sample,37.4974825,-122.49628,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18A1,Sample,37.501344,-122.49408,Marsh_runoff_2017,sand,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14A2,Sample,37.495565,-122.49736,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14B2,Sample,37.495619,-122.49572,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11A1,Sample,37.4990994,-122.49575,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16B2,Sample,37.4980589,-122.49634,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15A2,Sample,37.5006885,-122.49495,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15B2,Sample,37.5015853,-122.49378,Marsh_runoff_2017,silt,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11A2,Sample,37.4989306,-122.49617,Unprotected_inner_beach_2017,sand,0,FullyTerrestrial,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16A1,Sample,37.4987819,-122.49608,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18B1,Sample,37.5007183,-122.49489,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18A2,Sample,37.5012373,-122.4943,Marsh_runoff_2017,sand,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_5,Sample,37.496966,-122.50025,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_4,Sample,37.496432,-122.50006,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202A2,Sample,37.493374,-122.49265,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181C2,Sample,37.497018,-122.50034,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183B2,Sample,37.49405,-122.49873,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_2,Sample,37.49636,-122.4996,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11B2,Sample,37.4974825,-122.49628,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_24,Sample,37.502181,-122.49285,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182B2,Sample,37.49547,-122.49648,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_21,Sample,37.494284,-122.49121,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TiDE_47,Sample,37.49424,-122.49936,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11A1,Sample,37.4990994,-122.49575,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182C2,Sample,37.495274,-122.49531,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201A2,Sample,37.50159,-122.49406,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18A2,Sample,37.5012373,-122.4943,Marsh_runoff_2017,sand,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_12,Sample,37.496008,-122.49989,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186C2,Sample,37.496001,-122.49995,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_18,Sample,37.50242,-122.49362,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14B2,Sample,37.495619,-122.49572,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_38,Sample,37.495337,-122.49528,Unprotected_tidepool_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16B2,Sample,37.4980589,-122.49634,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15B2,Sample,37.5015853,-122.49378,Marsh_runoff_2017,silt,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_22,Sample,37.494206,-122.49044,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204C1,Sample,37.4972663,-122.49543,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_17,Sample,37.50076,-122.49303,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184C1,Sample,37.494549,-122.49918,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_34,Sample,37.495463,-122.49753,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15A2,Sample,37.5006885,-122.49495,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_43,Sample,37.494521,-122.49865,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181A1,Sample,37.496101,-122.49995,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204C2,Sample,37.4970992,-122.49568,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15C2,Sample,37.5001729,-122.49546,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186C1,Sample,37.495675,-122.49972,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_20,Sample,37.49364,-122.49266,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18C1,Sample,37.5001835,-122.49567,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182A1,Sample,37.495512,-122.49757,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_45,Sample,37.495485,-122.49927,Unprotected_tidepool_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18B1,Sample,37.5007183,-122.49489,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181B1,Sample,37.496547,-122.49979,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_8,Sample,37.497271,-122.50023,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_40,Sample,37.49407,-122.49833,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11A2,Sample,37.4989306,-122.49617,Unprotected_inner_beach_2017,sand,0,FullyTerrestrial,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182B1,Sample,37.49539,-122.49746,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15C1,Sample,37.5004465,-122.4953,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_35,Sample,37.495422,-122.49743,Unprotected_tidepool_2024,Sediment,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187B2,Sample,37.493602,-122.49352,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202A1,Sample,37.493525,-122.49277,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16A1,Sample,37.4987819,-122.49608,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_27,Sample,37.502676,-122.49276,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182A2,Sample,37.495489,-122.49758,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_41,Sample,37.493799,-122.49875,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18C2,Sample,37.5001214,-122.49595,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203B2,Sample,37.500421,-122.49421,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_19,Sample,37.494332,-122.49397,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15A1,Sample,37.5009329,-122.4948,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202C1,Sample,37.494193,-122.49047,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_44,Sample,37.494808,-122.49864,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202C2,Sample,37.494026,-122.49053,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187A1,Sample,37.495175,-122.49399,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203B1,Sample,37.50005,-122.49393,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183A1,Sample,37.493883,-122.49924,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186B2,Sample,37.496029,-122.49938,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP204B1,Sample,37.498014,-122.49596,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP182C1,Sample,37.49557,-122.49525,Unprotected_outer_beach_2017,sand,0,Exposed_intertidal,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_3,Sample,37.496548,-122.49982,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187A2,Sample,37.49503,-122.49424,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181A2,Sample,37.49637,-122.4996,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_10,Sample,37.495961,-122.49934,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_39,Sample,37.49407,-122.49833,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203C2,Sample,37.500361,-122.49495,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201B2,Sample,37.501179,-122.49357,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_48,Sample,37.494691,-122.49916,Unprotected_tidepool_2024,Sediment,"",Fully submerged,"",""
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16C2,Sample,37.497351,-122.49611,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_32,Sample,37.497078,-122.4957,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183C1,Sample,37.494431,-122.49858,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14C1,Sample,37.495604,-122.49582,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP183B1,Sample,37.494025,-122.4987,Unprotected_tidepool_2017,organic_sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_15,Sample,37.498115,-122.5004,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202B1,Sample,37.494176,-122.49139,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14A2,Sample,37.495565,-122.49736,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_36,Sample,37.495619,-122.49667,Unprotected_tidepool_2024,Sediment,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184C2,Sample,37.494549,-122.49918,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP11B1,Sample,37.4980419,-122.49647,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203A1,Sample,37.500425,-122.49329,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_42,Sample,37.494004,-122.49863,Unprotected_tidepool_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_25,Sample,37.500067,-122.49491,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187C1,Sample,37.494203,-122.49383,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16A2,Sample,37.4989113,-122.49632,Unprotected_inner_beach_2017,sand,0,FullyTerrestrial,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP16C1,Sample,37.4977438,-122.4961,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184A1,Sample,37.497309,-122.50029,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14A1,Sample,37.49567,-122.49768,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_31,Sample,37.497166,-122.49553,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184B2,Sample,37.495137,-122.49916,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_23,Sample,37.50045,-122.49335,Unprotected_inner_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_29,Sample,37.49806,-122.49593,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203C1,Sample,37.499838,-122.49487,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201B1,Sample,37.501337,-122.49372,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP187C2,Sample,37.493991,-122.49378,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP181C1,Sample,37.496758,-122.5004,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184A2,Sample,37.497138,-122.50013,Protected_outer_beach_2017,sand,0,Exposed_intertidal,Protected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_7,Sample,37.497322,-122.50027,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_16,Sample,37.497385,-122.50036,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_26,Sample,37.502836,-122.49326,Unprotected_inner_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP202B2,Sample,37.493925,-122.49123,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP14B1,Sample,37.495652,-122.49577,Unprotected_outer_beach_2017,sand,0,Exposed_Shoreline_and_beach,Unprotected_outer_beach,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18A1,Sample,37.501344,-122.49408,Marsh_runoff_2017,sand,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_6,Sample,37.497038,-122.50023,Protected_outer_beach_2024,Sediment,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP184B1,Sample,37.495506,-122.49926,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP15B1,Sample,37.501604,-122.49419,Marsh_runoff_2017,silt,0,Embayment_Shoreline_and_beach,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-02-08,PP18B2,Sample,37.5006331,-122.4951,Unprotected_inner_beach_2017,sand,0,Embayment_Shoreline_and_beach,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2024-07-22,TIDE_37,Sample,37.4956,-122.49532,Unprotected_tidepool_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2024-07-22,MPA_1,Sample,37.496102,-122.49985,Protected_outer_beach_2024,Sand,"",Frequently submerged or intertidal or marsh,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP203A2,Sample,37.500718,-122.49374,Unprotected_inner_beach_2017,sand,0,Embayment_intertidal,Unprotected_inner_beach,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP201C2,Sample,37.500588,-122.49304,Marsh_runoff_2017,silt,0,Embayment_intertidal,Marsh_runoff,Inside
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186A2,Sample,37.495471,-122.49956,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
+clme267mb0003ld0fho9fnql5,2024-07-22,EMB_30,Sample,37.498103,-122.49635,Unprotected_inner_beach_2024,Sand,"",Rarely submerged or wetland or arroyo,"",""
+clme267mb0003ld0fho9fnql5,2017-04-30,PP186A1,Sample,37.495496,-122.4995,Unprotected_tidepool_2017,sand,0,Exposed_intertidal,Unprotected_tidepool,Outside
