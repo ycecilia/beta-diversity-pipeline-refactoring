@@ -14,18 +14,25 @@ from pathlib import Path
 from typing import Dict, Any
 import matplotlib.pyplot as plt
 
-# Add paths
-sys.path.append('/Users/ceciliayang/Desktop/report-homework-challenge/my_solution')
-sys.path.append('/Users/ceciliayang/Desktop/report-homework-challenge')
+# Get the project root directory (parent of benchmarks directory)
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+
+# Add paths relative to project structure
+sys.path.append(str(PROJECT_ROOT))
+sys.path.append(str(PROJECT_ROOT.parent))
 
 def run_original_beta():
     """Run the original beta.py pipeline."""
     print("🔄 Running original beta.py...")
     
-    # Set environment variables for original pipeline
+    # Set environment variables for original pipeline using relative paths
     env = os.environ.copy()
-    env['OTU_DATA_PATH'] = '/Users/ceciliayang/Desktop/report-homework-challenge/test_data/decontaminated_reads.csv'
-    env['METADATA_PATH'] = '/Users/ceciliayang/Desktop/report-homework-challenge/test_data/sample_metadata.csv'
+    test_data_dir = PROJECT_ROOT / "test_data"
+    original_code_dir = PROJECT_ROOT / "original_code"
+    
+    env['OTU_DATA_PATH'] = str(test_data_dir / "decontaminated_reads.csv")
+    env['METADATA_PATH'] = str(test_data_dir / "sample_metadata.csv")
     env['CLUSTERING_METHOD'] = 'meanshift'
     
     # Measure execution
@@ -33,10 +40,17 @@ def run_original_beta():
     initial_memory = psutil.virtual_memory().used / 1024 / 1024  # MB
     
     try:
+        # Check if we're in a virtual environment or if there's a .venv directory
+        venv_python = PROJECT_ROOT / ".venv" / "bin" / "python"
+        if venv_python.exists():
+            python_exe = str(venv_python)
+        else:
+            python_exe = sys.executable
+            
         result = subprocess.run([
-            'python', '/Users/ceciliayang/Desktop/report-homework-challenge/original_code/beta.py'
+            python_exe, str(original_code_dir / "beta.py")
         ], capture_output=True, text=True, env=env, 
-           cwd='/Users/ceciliayang/Desktop/report-homework-challenge', timeout=300)
+           cwd=str(PROJECT_ROOT), timeout=300)
         
         end_time = time.time()
         final_memory = psutil.virtual_memory().used / 1024 / 1024  # MB
@@ -167,10 +181,11 @@ def run_refactored_beta(fast_mode=False):
             
         pipeline = BetaDiversityPipeline(config)
         
-        # Create inputs
+        # Create inputs using relative paths
+        test_data_dir = PROJECT_ROOT / "test_data"
         inputs = PipelineInputs(
-            metadata_path=Path('/Users/ceciliayang/Desktop/report-homework-challenge/test_data/sample_metadata.csv'),
-            abundance_path=Path('/Users/ceciliayang/Desktop/report-homework-challenge/test_data/decontaminated_reads.csv'),
+            metadata_path=test_data_dir / "sample_metadata.csv",
+            abundance_path=test_data_dir / "decontaminated_reads.csv",
             taxonomic_rank="species",
             environmental_param="site",
             beta_diversity_metric="jaccard",
@@ -204,7 +219,7 @@ def run_refactored_beta(fast_mode=False):
         
         # Try to read the saved JSON files for more accurate results
         output_prefix = f'benchmark_{"fast" if fast_mode else "normal"}'
-        output_dir = Path('/Users/ceciliayang/Desktop/report-homework-challenge/my_solution/output')
+        output_dir = PROJECT_ROOT / "output"
         
         try:
             # Read PERMANOVA results from JSON file
@@ -548,8 +563,8 @@ def create_visualization(analysis):
         
         plt.tight_layout()
         
-        # Save plot
-        results_dir = Path('/Users/ceciliayang/Desktop/report-homework-challenge/my_solution/benchmarks/results')
+        # Save plot using relative path
+        results_dir = SCRIPT_DIR / "results"
         results_dir.mkdir(exist_ok=True)
         plot_path = results_dir / 'simple_performance_comparison.png'
         plt.savefig(plot_path, dpi=300, bbox_inches='tight')
@@ -564,7 +579,7 @@ def save_results(results, analysis):
     """Save results to files."""
     print("💾 Saving results...")
     
-    results_dir = Path('/Users/ceciliayang/Desktop/report-homework-challenge/my_solution/benchmarks/results')
+    results_dir = SCRIPT_DIR / "results"
     results_dir.mkdir(exist_ok=True)
     
     # Save raw results

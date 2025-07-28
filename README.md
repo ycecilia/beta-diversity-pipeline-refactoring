@@ -102,8 +102,13 @@ my_solution/
    ```
 
 3. **Install dependencies**:
-   ```
+   ```bash
    pip install -r requirements.txt
+   ```
+
+   If you encounter any missing dependencies while running the pipeline, install them individually:
+   ```bash
+   pip install polars PyYAML pandas numpy scikit-learn scikit-bio matplotlib seaborn plotly psutil biom-format joblib scipy statsmodels
    ```
 
    **Key Dependencies:**
@@ -120,11 +125,17 @@ my_solution/
 
 ### Running the Refactored Pipeline
 
-Navigate to the refactored codebase directory:
+From the project root directory, run the pipeline using the module approach:
 ```bash
-cd beta_diversity_refactored
-python run_pipeline.py
+python -m beta_diversity_refactored.run_pipeline
 ```
+
+Alternatively, you can run it directly:
+```bash
+python beta_diversity_refactored/run_pipeline.py
+```
+
+**Note**: Make sure you have installed all dependencies from `requirements.txt` before running the pipeline.
 
 The pipeline will process the test data and generate:
 - Beta diversity distance matrices
@@ -132,6 +143,25 @@ The pipeline will process the test data and generate:
 - Clustering results with validation metrics
 - Interactive visualizations
 - Comprehensive analysis reports
+
+### Expected Output
+
+When successfully run, the pipeline will:
+- Complete in approximately 0.6 seconds
+- Process 272 metadata records and 52,706 abundance records
+- Generate a 135×135 beta diversity distance matrix
+- Perform PERMANOVA analysis (p-value typically 0.001)
+- Create 9 clusters using meanshift algorithm
+- Generate 3 interactive plots (PCoA, distance heatmap, scree plot)
+- Save 12 output files in the `output/` directory
+
+### Troubleshooting
+
+**Module not found errors**: Ensure you're running from the project root directory and that all dependencies are installed.
+
+**Path errors**: The pipeline expects test data in `test_data/` relative to the project root. Verify the files exist:
+- `test_data/sample_metadata.csv`
+- `test_data/decontaminated_reads.csv`
 
 ### Running Benchmarks
 
@@ -152,25 +182,22 @@ Benchmark results will be saved in `benchmarks/results/` with:
 
 ### Running Tests
 
-Execute the comprehensive test suite:
+Execute the comprehensive test suite from the project root:
 ```bash
-cd beta_diversity_refactored
-pytest
+python -m pytest tests/ -v
 ```
 
 Expected output: **56 tests passed** with 100% success rate.
 
 ### Code Quality Checks
 
-Verify code formatting and quality:
+Verify code formatting and quality from the project root:
 ```bash
-cd beta_diversity_refactored
-
 # Code formatting
-black .
+black beta_diversity_refactored/
 
-# Code linting
-flake8 .
+# Code linting  
+flake8 beta_diversity_refactored/
 ```
 
 ## Scientific Equivalence

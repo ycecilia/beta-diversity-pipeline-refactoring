@@ -7,11 +7,11 @@ import sys
 import logging
 from pathlib import Path
 
-from beta_diversity_refactored.pipeline import BetaDiversityPipeline, PipelineInputs
-from beta_diversity_refactored.config import get_config
-
 # Add the parent directory to path to import the package
 sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from beta_diversity_refactored.pipeline import BetaDiversityPipeline, PipelineInputs
+from beta_diversity_refactored.config import get_config
 
 
 def main():
