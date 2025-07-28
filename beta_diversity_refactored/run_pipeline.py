@@ -36,7 +36,7 @@ def main():
     pipeline = BetaDiversityPipeline(config)
 
     # Set up test data paths
-    test_data_dir = Path(__file__).parent.parent.parent / "test_data"
+    test_data_dir = Path(__file__).parent.parent / "test_data"
 
     # Create pipeline inputs - using same data as original script
     inputs = PipelineInputs(
