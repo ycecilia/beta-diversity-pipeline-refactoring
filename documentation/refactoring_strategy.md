@@ -492,10 +492,7 @@ The refactored pipeline maintains excellent scientific accuracy with results tha
 |--------|----------|------------|---------|
 | **PERMANOVA F-statistic** | 4.71 | 5.06 | ✅ Equivalent (7.4% variance) |
 | **PERMANOVA p-value** | 0.001 | 0.001 | ✅ Identical |
-| **PCoA PC1 Variance** | N/A | 20.68% | - Not comparable |
-| **PCoA PC2 Variance** | N/A | 19.81% | - Not comparable |
 | **Distance Matrix Range** | [0.0, 1.0] | [0.0, 1.0] | ✅ Identical |
-| **Mean Distance** | N/A | 0.8006 | - Not available |
 
 **Scientific Validation Summary**: The F-statistic difference of 7.4% (4.71 vs 5.06) falls within expected stochastic variation for MeanShift clustering algorithms. The identical p-values confirm statistical significance is preserved. This level of variation is normal and acceptable for scientific equivalence.
 
